@@ -1,0 +1,178 @@
+[
+  {
+    "id": "s01",
+    "title": "Arrival and the locker photo",
+    "synthetic": true,
+    "showInApp": true,
+    "intended": "1.1",
+    "notes": "Maya arrived and stayed close to me for the first few minutes.\nShe then joined the morning routine, washed her hands and found her photo on the locker.\nBy mat time she was settled and looked for me when the song changed."
+  },
+  {
+    "id": "s02",
+    "title": "The sun, on his own",
+    "synthetic": true,
+    "showInApp": false,
+    "intended": "1.2",
+    "notes": "Leo picked up the red paint and the yellow paint and did not wait for me to choose.\nThe brush slipped. He looked at me, then started the sun again on his own.\nHe stayed with the page until it was covered."
+  },
+  {
+    "id": "s03",
+    "title": "Arabic at home",
+    "synthetic": true,
+    "showInApp": false,
+    "intended": "1.3",
+    "notes": "Aisha told Mina, \"At home we speak Arabic with my grandma.\"\nShe drew her family at the table and said she likes the way her name sounds.\nShe asked me to write her name in Arabic letters beside the drawing."
+  },
+  {
+    "id": "s04",
+    "title": "When the tower fell",
+    "synthetic": true,
+    "showInApp": false,
+    "intended": "1.4",
+    "notes": "When Sam's tower fell he went quiet and his eyes filled up.\nJonah moved in beside him and held out a block without saying much.\nSam took the block and they started the tower once more."
+  },
+  {
+    "id": "s05",
+    "title": "Voting for a song",
+    "synthetic": true,
+    "showInApp": false,
+    "intended": "2.1",
+    "notes": "At mat time the group voted on which song to sing.\nPriya put her hand up and said \"I choose the rainbow song because we all know it.\"\nThree children who had not spoken also gave a vote."
+  },
+  {
+    "id": "s06",
+    "title": "Two ways to cook dumplings",
+    "synthetic": true,
+    "showInApp": false,
+    "intended": "2.2",
+    "notes": "Mei said her grandma makes dumplings a different way from Omar's family.\nOmar said his family fries them, and Mei said \"both ways are good.\"\nThey looked at a picture book of family meals from different countries."
+  },
+  {
+    "id": "s07",
+    "title": "The red bike",
+    "synthetic": true,
+    "showInApp": true,
+    "intended": "2.3",
+    "notes": "Nora and Eli both wanted the red bike.\nNora said \"we can take turns, that's fair\" and turned the sand timer.\nShe made sure Eli got the first turn because he had been waiting."
+  },
+  {
+    "id": "s08",
+    "title": "Worm farm and the garden",
+    "synthetic": true,
+    "showInApp": true,
+    "intended": "2.4",
+    "notes": "After lunch the group picked up sticks and paper from the yard.\nHana put the food scraps into the worm farm and said the worms need them.\nTwo children watered the vegetable garden without being asked."
+  },
+  {
+    "id": "s09",
+    "title": "The calm-down cushion",
+    "synthetic": true,
+    "showInApp": false,
+    "intended": "3.1",
+    "notes": "After a loud argument Eli went to the calm-down cushion.\nHe said \"I feel cross\" and took three breaths, then came back to the blocks.\nHe told me he is getting better at stopping before he hits."
+  },
+  {
+    "id": "s10",
+    "title": "The balance beam",
+    "synthetic": true,
+    "showInApp": true,
+    "intended": "3.2",
+    "notes": "Hana walked along the low balance beam with her arms out.\nShe then tried the higher beam and wobbled, but stayed on.\nLater she showed a friend how to climb the ladder to the beam."
+  },
+  {
+    "id": "s11",
+    "title": "Soap and hats",
+    "synthetic": true,
+    "showInApp": false,
+    "intended": "3.3",
+    "notes": "Before morning tea Arun reminded Mei to wash her hands.\nHe said \"soap keeps the germs away\" and waited while she did it.\nHe also moved his hat onto his head before they went outside."
+  },
+  {
+    "id": "s12",
+    "title": "The hard puzzle",
+    "synthetic": true,
+    "showInApp": false,
+    "intended": "4.1",
+    "notes": "Kit did not leave the puzzle when the piece would not go in.\nHe turned the piece, frowned, and said \"not that way\" before he found the spot.\nThen he pulled the harder puzzle off the shelf."
+  },
+  {
+    "id": "s13",
+    "title": "Vinegar and bicarb",
+    "synthetic": true,
+    "showInApp": true,
+    "intended": "4.2",
+    "notes": "Sienna poured vinegar onto the bicarb in the trough.\nShe guessed \"it will bubble\" and then tried it with warm water.\nShe asked why the second one bubbled faster."
+  },
+  {
+    "id": "s14",
+    "title": "The bridge, outside",
+    "synthetic": true,
+    "showInApp": false,
+    "intended": "4.3",
+    "notes": "Yesterday the children planned a bridge with the unit blocks.\nToday they tried the same plan outside with cardboard and planks.\nLeo said \"we have to change it because the grass is not flat.\""
+  },
+  {
+    "id": "s15",
+    "title": "Tools for the insect hunt",
+    "synthetic": true,
+    "showInApp": false,
+    "intended": "4.4",
+    "notes": "The group gathered leaves, pegs and a cardboard tube for the insect hunt.\nAmira said they needed the magnifying glass and went to get it.\nThey used what they found on the ground rather than asking for new toys."
+  },
+  {
+    "id": "s16",
+    "title": "Back and forth at the dough table",
+    "synthetic": true,
+    "showInApp": false,
+    "intended": "5.1",
+    "notes": "Luca and Aisha were at the dough table with a lump they called a nest.\nShe pointed at the dough and he poured a drip of water on it.\nThey went back and forth about the eggs until the nest looked wetter."
+  },
+  {
+    "id": "s17",
+    "title": "What does that say",
+    "synthetic": true,
+    "showInApp": false,
+    "intended": "5.2",
+    "notes": "The group listened to the picture book about the kookaburra.\nPriya pointed at the word on the page and asked \"what does that say?\"\nTwo children joined in the rhyme on the last page."
+  },
+  {
+    "id": "s18",
+    "title": "The storm painting",
+    "synthetic": true,
+    "showInApp": true,
+    "intended": "5.3",
+    "notes": "Amira painted a storm with thick grey swirls.\nShe said the swirls are the wind and the yellow dot is her house.\nShe added blue dots for rain and looked at the painting for a while."
+  },
+  {
+    "id": "s19",
+    "title": "Big, small, big, small",
+    "synthetic": true,
+    "showInApp": false,
+    "intended": "5.4",
+    "notes": "Child A lined the stones up and said \"big, small, big, small.\"\nThey counted the stones and said there were eight in the pattern.\nThen they made the same pattern with the bottle tops."
+  },
+  {
+    "id": "s20",
+    "title": "Looking up the kookaburra",
+    "synthetic": true,
+    "showInApp": false,
+    "intended": "5.5",
+    "notes": "The children used the tablet to look up a picture of a kookaburra.\nJonah scrolled to a photo and said \"that is the one from our book.\"\nThey drew the bird after looking at the screen."
+  },
+  {
+    "id": "s21",
+    "title": "After the bike fall",
+    "synthetic": true,
+    "showInApp": false,
+    "intended": "1.4",
+    "notes": "Mei fell off the bike and sat on the ground holding her knee.\nJonah knelt beside her and asked if it hurt.\nHe passed her the helmet and said they should put it on before they ride again."
+  },
+  {
+    "id": "s22",
+    "title": "The leaning tower",
+    "synthetic": true,
+    "showInApp": true,
+    "intended": "4.1",
+    "notes": "Sam and Nora kept adding blocks each time the tower leaned.\nThey talked about which block should go next and counted to twelve.\nNora said \"let's keep trying\" when it fell the first time."
+  }
+]
